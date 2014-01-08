@@ -1,0 +1,63 @@
+
+
+Started GET "/" for 127.0.0.1 at 2014-01-08 11:53:44 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/colinbrevitz/.rvm/gems/ruby-2.0.0-p353@global/gems/railties-4.0.2/lib/rails/templates/rails/welcome/index.html.erb (1.8ms)
+Completed 200 OK in 9ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-01-08 11:53:44 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/colinbrevitz/.rvm/gems/ruby-2.0.0-p353@global/gems/railties-4.0.2/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-01-08 11:54:04 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/colinbrevitz/.rvm/gems/ruby-2.0.0-p353@global/gems/railties-4.0.2/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-01-08 11:54:04 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/colinbrevitz/.rvm/gems/ruby-2.0.0-p353@global/gems/railties-4.0.2/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-01-08 11:54:06 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/colinbrevitz/.rvm/gems/ruby-2.0.0-p353@global/gems/railties-4.0.2/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-01-08 11:54:06 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/colinbrevitz/.rvm/gems/ruby-2.0.0-p353@global/gems/railties-4.0.2/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-01-08 11:54:11 -0500
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 602ms (Views: 601.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-01-08 11:54:11 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-01-08 11:54:11 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-01-08 11:54:11 -0500
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-01-08 11:54:11 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-01-08 11:54:11 -0500
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-01-08 11:54:11 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-01-08 11:54:11 -0500
